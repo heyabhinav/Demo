@@ -1,3 +1,3 @@
 print("Hello World")
-#<<<<<<< HEAD
+print("Dekho hm yahan h")
 print("Khatam tata bye.")
